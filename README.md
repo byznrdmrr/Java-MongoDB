@@ -1,6 +1,6 @@
 # Java-MongoDB
 
-The data is extracted from the MITER CVE Database with the redhat API and stored in mongoDB as JSON format.
+The data(CVE) is extracted from the MITER CVE Database with the redhat API and stored in mongoDB as JSON format.
 A client and collection were created to connect to MongoDB and a request was made to API.
 JSON data from API has been added to the collection in MongoDB.
 Vulnerabilities collection under CVE Database
